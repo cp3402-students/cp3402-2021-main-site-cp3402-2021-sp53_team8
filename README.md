@@ -8,6 +8,7 @@
 - LinkedIn acounnt of members
 - Project links to the production and staging site, Github repository, Project board and a communication platform we used to chat with each other.
 - Login details in Wordpress
+* [A2.html](https://github.com/cp3402-students/cp3402-2021-main-site-cp3402-2021-sp53_team8/blob/master/a2.html)
 
 # Custom theme
 * [Child Theme](https://github.com/cp3402-students/cp3402-2021-main-site-cp3402-2021-sp53_team8/blob/master/site.md)
