@@ -10,5 +10,7 @@
 - Login details in Wordpress
 
 # Custom theme
+* [Child Theme](https://github.com/cp3402-students/cp3402-2021-main-site-cp3402-2021-sp53_team8/blob/master/site.md)
 
 # Video presentation 
+* [Presentation](https://www.youtube.com/watch?v=PAGB0mU6Mzk)
